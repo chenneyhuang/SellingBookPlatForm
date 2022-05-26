@@ -205,7 +205,7 @@ tornado==5.0.1
 tqdm==4.19.1
 traitlets==4.3.2
 troposphere==2.2.1
-Twisted==17.5.0
+Twisted==22.4.0
 typing==3.6.4
 unicodecsv==0.14.1
 Unidecode==1.0.22
